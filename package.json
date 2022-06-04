@@ -1,6 +1,6 @@
 {
     "name": "fast-scan-dir-recursive",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Scans dirs recursively while avoiding recursion and being parallel and fast",
     "main": "./index.js",
     "repository": {
