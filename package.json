@@ -1,0 +1,25 @@
+{
+    "name": "fast-scan-dir-recursive",
+    "version": "0.0.3",
+    "description": "Scans dirs recursively while avoiding recursion and being parallel and fast",
+    "main": "./index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/achlubek/fast-scan-dir-recursive.git"
+    },
+    "keywords": [
+        "scandir",
+        "scan",
+        "directory",
+        "recursive",
+        "parallel",
+        "fast"
+    ],
+    "author": "Adrian Chlubek",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/achlubek/fast-scan-dir-recursive/issues"
+    },
+    "homepage": "https://github.com/achlubek/fast-scan-dir-recursive#readme",
+    "typings": "./index.d.ts"
+}
