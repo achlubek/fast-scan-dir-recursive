@@ -4,5 +4,5 @@ Scans a directory recursively while avoiding recursion and being parallel and fa
 Example usage:
 ```typescript
 import { scan } from "fast-scan-dir-recursive";
-const files = await scan.scan(dir); 
+const files = await scan("/home/user");
 ```
